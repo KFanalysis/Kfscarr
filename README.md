@@ -1,4 +1,3 @@
-[![MasterHead](https://s38063.pcdn.co/wp-content/uploads/2021/09/the-best-ways-to-use-sql-delete-statement-in-a-sql-table.jpg)]
 
 <h1 align="center">Hi 👋, I'm Kumayl</h1>
 <h3 align="center">An analysis xprt</h3>
